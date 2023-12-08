@@ -12,11 +12,11 @@
 
 <div id="clockContainer">
 
-<div id="hour"></div>
+<div id="3"></div>
 
-<div id="minute"></div>
+<div id="6"></div>
 
-<div id="second"></div>
+<div id="45"></div>
 
 </div>
 
